@@ -1,0 +1,30 @@
+{
+  "name": "modern-javascript-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorrelBrigman/ModernJavaScriptTools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorrelBrigman/ModernJavaScriptTools/issues"
+  },
+  "homepage": "https://github.com/SorrelBrigman/ModernJavaScriptTools#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "node-sass": "^4.4.0"
+  }
+}

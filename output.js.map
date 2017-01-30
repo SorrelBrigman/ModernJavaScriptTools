@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["console","log","cpt"],"mappings":";;AAEAA,QAAQC,GAAR,CAAY,aAAZ;;AAGAD,QAAQC,GAAR,CAAY,4BAAZ;;AAEA,IAAIC,MAAM,iBAAV;;AAGAF,QAAQC,GAAR,CAAYC,GAAZ","file":"output.js","sourcesContent":["\n\nconsole.log(\"hello world\");\n\n\nconsole.log(\"Here I am to save the day!\");\n\nlet cpt = \"captain America\";\n\n\nconsole.log(cpt);\n"]}
